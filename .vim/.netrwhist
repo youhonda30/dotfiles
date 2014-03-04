@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/honda/21cafe_memo'
+let g:netrw_dirhist_2='/Applications/cd to.app/Contents/Plugins/iterm.bundle'
+let g:netrw_dirhist_3='/Applications/cd to.app/Contents/Plugins/iterm2.bundle'
+let g:netrw_dirhist_4='/Applications/cd to.app/Contents/Plugins/terminal.bundle'
+let g:netrw_dirhist_5='/private/etc/paths.d'
+let g:netrw_dirhist_6='/Users/honda/.vim'
+let g:netrw_dirhist_7='/Users/honda/.vim/bundle'
